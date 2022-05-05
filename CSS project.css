@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: rgb(189, 109, 17);
+}  
+  
+  
+  
+h1{
+color: silver;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+font-style: oblique;
+}
+.x2{
+text-align: center;
+}
+details{
+
+    color: rgb(69, 32, 172);
+    text-align: center;
+    cursor: grab;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+summary:hover{
+    color: red;
+}
+a{
+cursor: grab;
+color: blue;
+text-align: left;
+}
+a:hover{
+
+    color: red;
+}
+img{
+   border: 10px black solid;
+} 
+ul{
+  text-align: left;
+}
+
+ 
+table{
+    text-align: center;
+    border: 1px black solid;
+    width: 400px;   
+}
+th,td{
+    border: 1px white solid;
+    width: 400px;
+}
+
+
+.a{
+font-size: x-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
